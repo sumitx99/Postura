@@ -10,6 +10,7 @@
 
 ## 🚀 Features
 
+
 ### 🔍 Auto-Detection of Exercises
 - Automatically detects which of the **10 supported exercises** you're performing
 - Uses real-time **pose estimation and joint angle pattern recognition**
